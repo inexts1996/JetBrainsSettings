@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UIGameLevelsMVC\UIGameLevelsView.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UIGameLevelsMVC\UIGameLevelsView.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UIGameLevelsMVC\UIGameLevelsView.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\FrameWork\Mgrs\GameLevelsMgr\GameLevelsMgr.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\FrameWork\Mgrs\GameLevelsMgr\GameLevelsMgr.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\FrameWork\Mgrs\GameLevelsMgr\GameLevelsMgr.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
