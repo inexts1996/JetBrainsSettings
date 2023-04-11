@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UIGuideMVC\UIGuideView.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UIGuideMVC\UIGuideView.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UIGuideMVC\UIGuideView.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\FrameWork\Mgrs\GuideMgr\ActionDatas\GuideFingerActionData.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\FrameWork\Mgrs\GuideMgr\ActionDatas\GuideFingerActionData.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\FrameWork\Mgrs\GuideMgr\ActionDatas\GuideFingerActionData.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
