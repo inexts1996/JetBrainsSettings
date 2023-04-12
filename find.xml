@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\Logic\Datas\GuideData\GuideData.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\Datas\GuideData\GuideData.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\Datas\GuideData\GuideData.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\FrameWork\Mgrs\FeatureUnlockMgr\UIFeatureLockItem.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\FrameWork\Mgrs\FeatureUnlockMgr\UIFeatureLockItem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\FrameWork\Mgrs\FeatureUnlockMgr\UIFeatureLockItem.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
