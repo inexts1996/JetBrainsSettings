@@ -2,6 +2,6 @@
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="true" />
     <option name="myShellPath" value="C:\Program Files\PowerShell\7-preview\pwsh.exe" />
-    <option name="myTabName" value="Local" />
+    <option name="myTabName" value="PowerShell" />
   </component>
 </application>
