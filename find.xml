@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\FrameWork\Mgrs\SceneAIMgr\BehaviorTree\SceneAINode\RiskAction\ReadyRisk.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\FrameWork\Mgrs\SceneAIMgr\BehaviorTree\SceneAINode\RiskAction\ReadyRisk.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\FrameWork\Mgrs\SceneAIMgr\BehaviorTree\SceneAINode\RiskAction\ReadyRisk.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\Logic\Datas\SceneData\SpawnActor.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\Datas\SceneData\SpawnActor.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\Datas\SceneData\SpawnActor.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
