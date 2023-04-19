@@ -1,4 +1,7 @@
 <keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="ActivateBitoToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="shift alt back_slash" />
   </action>
