@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\FrameWork\Mgrs\SceneAIMgr\Sub\BuildingAnimation.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\FrameWork\Mgrs\SceneAIMgr\Sub\BuildingAnimation.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\FrameWork\Mgrs\SceneAIMgr\Sub\BuildingAnimation.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\FrameWork\Mgrs\SceneAIMgr\Sub\NormalBuildingAnimation.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\FrameWork\Mgrs\SceneAIMgr\Sub\NormalBuildingAnimation.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\FrameWork\Mgrs\SceneAIMgr\Sub\NormalBuildingAnimation.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
