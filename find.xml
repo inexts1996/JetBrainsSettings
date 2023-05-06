@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '…\Assets\Hotfix\FrameWork\Mgrs\RedDotMgr\testSpine.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\FrameWork\Mgrs\RedDotMgr\testSpine.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\FrameWork\Mgrs\RedDotMgr\testSpine.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
