@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\FrameWork\Mgrs\TowerMainMgr\TowerMainMgr.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\FrameWork\Mgrs\TowerMainMgr\TowerMainMgr.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\FrameWork\Mgrs\TowerMainMgr\TowerMainMgr.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\Logic\Datas\TowerComponent\TowerDraggable.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\Datas\TowerComponent\TowerDraggable.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\Datas\TowerComponent\TowerDraggable.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
