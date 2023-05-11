@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\CubeTest.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\CubeTest.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\CubeTest.cs'" />
+    <option name="customScope" value="File '…\Assets\UIPositionTest.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\UIPositionTest.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\UIPositionTest.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
