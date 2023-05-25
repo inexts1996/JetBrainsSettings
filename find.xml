@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UILargeCashWithdrawMVC\LargeCashAmountProgressPart.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UILargeCashWithdrawMVC\LargeCashAmountProgressPart.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UILargeCashWithdrawMVC\LargeCashAmountProgressPart.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UICpmWithdrawMVC\CpmWithdrawItem.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UICpmWithdrawMVC\CpmWithdrawItem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UICpmWithdrawMVC\CpmWithdrawItem.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
