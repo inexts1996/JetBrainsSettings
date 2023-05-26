@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UICpmWithdrawRateIncreaseMVC\UICpmWithdrawRateIncreaseView.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UICpmWithdrawRateIncreaseMVC\UICpmWithdrawRateIncreaseView.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UICpmWithdrawRateIncreaseMVC\UICpmWithdrawRateIncreaseView.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UITaskMVC\UITaskView.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UITaskMVC\UITaskView.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UITaskMVC\UITaskView.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
