@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UITaskMVC\TaskItem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UITaskMVC\TaskItem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UITaskMVC\TaskItem.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UITaskMVC\TaskItemData.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UITaskMVC\TaskItemData.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UITaskMVC\TaskItemData.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
