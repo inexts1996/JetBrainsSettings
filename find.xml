@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UIGuideMVC\GuideMask.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UIGuideMVC\GuideMask.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UIGuideMVC\GuideMask.cs'" />
+    <option name="customScope" value="File '…\Assets\Bundles\Shader\GuideMask.shader'" />
+    <option name="defaultScopeName" value="File '…\Assets\Bundles\Shader\GuideMask.shader'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Bundles\Shader\GuideMask.shader'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
