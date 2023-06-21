@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Hotfix\Logic\MVC\UICpmWithdrawRewardMVC\UICpmWithdrawRewardSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Logic\MVC\UICpmWithdrawRewardMVC\UICpmWithdrawRewardSystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Logic\MVC\UICpmWithdrawRewardMVC\UICpmWithdrawRewardSystem.cs'" />
+    <option name="customScope" value="File '…\Assets\Hotfix\Tools\ADHelper.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Hotfix\Tools\ADHelper.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Hotfix\Tools\ADHelper.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
